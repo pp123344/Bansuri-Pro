@@ -48,4 +48,4 @@ This project was created for educational and fun purposes only. It is a digital 
 ---
 
 ## 👤 Author
-**Pranav Amge** *Built with love, patience, and curiosity.* © 2026 Studio Bansuri. All Rights Reserved.
+**Pranav Amge** *Built with love, patience, and curiosity.*
