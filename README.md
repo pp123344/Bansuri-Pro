@@ -46,7 +46,7 @@ The UI features a **"Goated" Glassmorphic** design:
 This project was created for educational and fun purposes only. It is a digital tribute and is not intended to replace the profound tradition of live classical music or the sacred heritage of the Bansuri.
 
 ---
-### 🔗 [Live Demo[](https://bansuripro.vercel.app/)
+### 🔗 [Live Demo](https://bansuripro.vercel.app/)
 
 ## 👤 Author
 **Pranav Amge** *Built with love, patience, and curiosity.*
